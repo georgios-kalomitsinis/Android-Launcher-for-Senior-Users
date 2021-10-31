@@ -1,4 +1,4 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80779522/139578938-c4553e2a-b738-4a57-8578-c8913ea439fb.png" width="100" />
+<img src="https://user-images.githubusercontent.com/80779522/139579396-00d7d600-0efb-4628-906f-0e62960017e2.png" width="150" />
 
 # Android-Launcher-for-Senior-Users
