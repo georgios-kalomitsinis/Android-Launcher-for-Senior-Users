@@ -35,9 +35,9 @@ This application has a very simple graphical interface with large, legible lette
   
 <table class="center">
    <tr class="center">
-    <td><img src= "https://user-images.githubusercontent.com/80779522/139581600-863a88e2-05fb-4392-b816-3b3513cd56f4.png" width="250" height="600" align="center" /></td>
-    <td><img src= "https://user-images.githubusercontent.com/80779522/139581598-45993bb3-ddab-4029-a7de-510fbed70a60.png" width="250" height="600" align="center" /></td>
-    <td><img src= "https://user-images.githubusercontent.com/80779522/139581601-60d1d867-ccda-4250-80ae-ce3e7ee6575b.png" width="250" height="600" align="center" /></td>
+    <td><img src= "https://user-images.githubusercontent.com/80779522/139581600-863a88e2-05fb-4392-b816-3b3513cd56f4.png" width="190" height="400" align="center" /></td>
+    <td><img src= "https://user-images.githubusercontent.com/80779522/139581598-45993bb3-ddab-4029-a7de-510fbed70a60.png" width="190" height="400" align="center" /></td>
+    <td><img src= "https://user-images.githubusercontent.com/80779522/139581601-60d1d867-ccda-4250-80ae-ce3e7ee6575b.png" width="190" height="400" align="center" /></td>
    </tr>   
  
    <tr align="center">
