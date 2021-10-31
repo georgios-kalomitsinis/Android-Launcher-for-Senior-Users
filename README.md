@@ -26,11 +26,6 @@ This application has a very simple graphical interface with large, legible lette
   Figure 1. Home screen.</figcaption>
 </figure>
 
-<!-- 
-![number](https://user-images.githubusercontent.com/80779522/139581598-45993bb3-ddab-4029-a7de-510fbed70a60.png)
-![contacts](https://user-images.githubusercontent.com/80779522/139581600-863a88e2-05fb-4392-b816-3b3513cd56f4.png)
-![gps](https://user-images.githubusercontent.com/80779522/139581601-60d1d867-ccda-4250-80ae-ce3e7ee6575b.png) -->
-
 <div align="center">
   
 <table class="center">
@@ -52,3 +47,7 @@ This application has a very simple graphical interface with large, legible lette
 <figcaption align = "center"><p align="center"> 
   Figure 2. Screens of the developed operations.
 </figure>
+
+
+## License
+This project is licensed under the [MIT License](https://github.com/georgios-kalomitsinis/Android-Launcher-for-Senior-Users/blob/master/LICENSE).
