@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2">
+
+
+    <TextView
+        android:id="@+id/txt5"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="116dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/txt4" />
+
+    <TextView
+        android:id="@+id/txt6"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="116dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/txt5" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="116dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        app:layout_constraintTop_toBottomOf="@+id/txt1" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="116dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/txt2" />
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="116dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        app:layout_constraintTop_toBottomOf="@+id/txt3" />
+
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="277dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:ems="10"
+        android:gravity="left"
+        android:textSize="30sp"
+        android:visibility="visible"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toStartOf="@+id/guideline8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/call_1"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/call_2"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_1" />
+
+    <Button
+        android:id="@+id/call_3"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_2" />
+
+    <Button
+        android:id="@+id/call_4"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_3" />
+
+    <Button
+        android:id="@+id/call_5"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_4" />
+
+    <Button
+        android:id="@+id/call_6"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/quick_call"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_5" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="2dp"
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
