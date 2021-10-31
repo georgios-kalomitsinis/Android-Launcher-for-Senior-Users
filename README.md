@@ -13,8 +13,8 @@ This application has a very simple graphical interface with large, legible lette
   * display time and date
   * show battery pointer with big icon
   * display one to six names corresponding to relatives using a corresponding number of buttons that when pressed will make a phone call
-  * button which when pressed will show the user in capital letters his own phone number
-  * button that when pressed will open the Google Maps application and focus on the user's current location
+  * button which when pressed will show the user's phone number
+  * button that when pressed will show the user's current location
   * button to quickly open the camera
   * button to quickly open photos
   * button to quickly open messages
